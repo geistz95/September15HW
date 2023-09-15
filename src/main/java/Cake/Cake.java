@@ -1,6 +1,6 @@
 package Cake;
 
-public class Cake {
+public abstract class Cake {
     String flavor;
     double price;
 
